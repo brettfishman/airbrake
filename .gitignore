@@ -13,6 +13,7 @@ doc
 pkg
 
 .bundle
+.idea/*
 
 *.rbc
 *.plan
